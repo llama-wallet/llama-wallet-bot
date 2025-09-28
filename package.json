@@ -1,17 +1,17 @@
 {
-	"name": "llama-wallet-bot",
-	"version": "1.0.0",
-	"private": false,
-	"scripts": {
-		"deploy": "wrangler deploy",
-		"dev": "wrangler dev",
-		"format": "biome format --write .",
-		"start": "wrangler dev",
-		"typegen": "wrangler types"
-	},
-	"devDependencies": {
-		"@biomejs/biome": "2.2.4",
-		"typescript": "5.9.2",
-		"wrangler": "4.40.2"
-	}
+  "name": "llama-wallet-bot",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "format": "biome format --write .",
+    "start": "wrangler dev",
+    "typegen": "wrangler types"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.2.4",
+    "typescript": "5.9.2",
+    "wrangler": "4.40.2"
+  }
 }

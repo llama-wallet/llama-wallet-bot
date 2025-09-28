@@ -1,1 +1,1 @@
-export * from "./handleMessage";
+export * from "./handleMessage"

@@ -1,15 +1,15 @@
 {
-	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "llama-wallet-bot",
-	"main": "src/index.ts",
-	"compatibility_date": "2025-09-27",
-	"observability": {
-		"enabled": true
-	},
-	"kv_namespaces": [
-		{
-			"binding": "KV_KEYS",
-			"id": "ef4ecd9554e949d8acf7ad01fc831f3e"
-		}
-	]
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "llama-wallet-bot",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-09-27",
+  "observability": {
+    "enabled": true
+  },
+  "kv_namespaces": [
+    {
+      "binding": "KV_KEYS",
+      "id": "ef4ecd9554e949d8acf7ad01fc831f3e"
+    }
+  ]
 }

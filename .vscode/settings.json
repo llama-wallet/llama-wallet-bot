@@ -1,9 +1,9 @@
 {
-	"editor.codeActionsOnSave": {
-		"quickfix.biome": "explicit",
-		"source.fixAll.biome": "explicit"
-	},
-	"files.associations": {
-		"wrangler.json": "jsonc"
-	}
+  "editor.codeActionsOnSave": {
+    "quickfix.biome": "explicit",
+    "source.fixAll.biome": "explicit"
+  },
+  "files.associations": {
+    "wrangler.json": "jsonc"
+  }
 }
